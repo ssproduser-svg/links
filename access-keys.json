@@ -6,11 +6,6 @@
       "name": "vsevolod",
       "sha256": "a1220ac5644f6539907ba2f926d13eed38c5d55f34a5ba5e06a907380b2fc79b",
       "expiresAt": "2026-08-09T19:56:00.000Z"
-    },
-    {
-      "name": "selivlad",
-      "sha256": "910804f2e95571f78b4a68bbbb561a4bc469e2889a041abc58d3f3a3ed07ccbf",
-      "expiresAt": "2027-12-31T23:59:59Z"
     }
   ]
 }
