@@ -8,11 +8,6 @@
       "expiresAt": "2026-08-09T19:56:00.000Z"
     },
     {
-      "name": "demo-user",
-      "sha256": "27696f5b0f787e9a28d7fad571295fd44010ebebe9a2e0c34b00b42fa8779f7e",
-      "expiresAt": "2027-12-31T23:59:59Z"
-    },
-    {
       "name": "selivlad",
       "sha256": "910804f2e95571f78b4a68bbbb561a4bc469e2889a041abc58d3f3a3ed07ccbf",
       "expiresAt": "2027-12-31T23:59:59Z"
