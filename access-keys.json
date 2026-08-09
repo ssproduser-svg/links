@@ -3,14 +3,10 @@
   "purchaseMessage": "Здравствуйте! Меня интересует ключ доступа к ScamLINK на неделю. Подскажите, пожалуйста, стоимость.",
   "keys": [
     {
-      "name": "vsevolod",
-      "sha256": "a1220ac5644f6539907ba2f926d13eed38c5d55f34a5ba5e06a907380b2fc79b",
-      "expiresAt": "2026-08-09T19:56:00.000Z"
-    },
-    {
       "name": "demo-user",
       "sha256": "27696f5b0f787e9a28d7fad571295fd44010ebebe9a2e0c34b00b42fa8779f7e",
       "expiresAt": "2027-12-31T23:59:59Z"
     }
-  ]
+  ],
+  "purchaseUrl": ""
 }
