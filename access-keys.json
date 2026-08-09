@@ -4,8 +4,8 @@
   "keys": [
     {
       "name": "vsevolod",
-      "sha256": "b75b7a861a6a61507b563eab4ec68e24c4e40f2f54ca98a14528707209276167",
-      "expiresAt": "2026-08-09T19:45:00.000Z"
+      "sha256": "a1220ac5644f6539907ba2f926d13eed38c5d55f34a5ba5e06a907380b2fc79b",
+      "expiresAt": "2026-08-09T19:56:00.000Z"
     },
     {
       "name": "demo-user",
