@@ -4,7 +4,8 @@
   "keys": [
     {
       "name": "vsevolodss",
-      "sha256": "b481e5cb8f49b2c461b09acfc2ebe71a6472f201e479e1f10e721422b3a9f64b"
+      "sha256": "b481e5cb8f49b2c461b09acfc2ebe71a6472f201e479e1f10e721422b3a9f64b",
+      "expiresAt": "2026-08-18T11:37:30.310Z"
     },
     {
       "name": "demo-user",
@@ -32,6 +33,14 @@
     }
   ],
   "auditLog": [
+    {
+      "id": "log_msol5vwp_fv72m2",
+      "at": "2026-08-11T11:37:30.313Z",
+      "actorId": "owner",
+      "actorName": "Главный администратор",
+      "action": "Изменён пользователь",
+      "target": "vsevolodss"
+    },
     {
       "id": "log_msol5nx5_hgq54l",
       "at": "2026-08-11T11:37:19.961Z",
