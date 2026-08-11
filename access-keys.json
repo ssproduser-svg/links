@@ -1,7 +1,21 @@
 {
   "purchaseAccount": "@perfts",
   "purchaseMessage": "Здравствуйте! Меня интересует ключ доступа к ScamLINK на неделю. Подскажите, пожалуйста, стоимость.",
-  "keys": [],
+  "keys": [
+    {
+      "name": "selion",
+      "sha256": "b4def00df98966b5e3dc7fe29ca396cfb302d5493bb62f8116b824693f627638"
+    },
+    {
+      "name": "vsevolodss",
+      "sha256": "b481e5cb8f49b2c461b09acfc2ebe71a6472f201e479e1f10e721422b3a9f64b"
+    },
+    {
+      "name": "demo-user",
+      "sha256": "27696f5b0f787e9a28d7fad571295fd44010ebebe9a2e0c34b00b42fa8779f7e",
+      "expiresAt": "2027-12-31T23:59:59Z"
+    }
+  ],
   "purchaseUrl": "",
   "admins": [
     {
@@ -23,32 +37,8 @@
   ],
   "auditLog": [
     {
-      "id": "log_msokz0wo_dew8jm",
-      "at": "2026-08-11T11:32:10.200Z",
-      "actorId": "owner",
-      "actorName": "Главный администратор",
-      "action": "Удалён пользователь",
-      "target": "selion"
-    },
-    {
-      "id": "log_msokyzjp_nj059d",
-      "at": "2026-08-11T11:32:08.437Z",
-      "actorId": "owner",
-      "actorName": "Главный администратор",
-      "action": "Удалён пользователь",
-      "target": "demo-user"
-    },
-    {
-      "id": "log_msokyy0t_3biwpn",
-      "at": "2026-08-11T11:32:06.461Z",
-      "actorId": "owner",
-      "actorName": "Главный администратор",
-      "action": "Удалён пользователь",
-      "target": "vsevolodss"
-    },
-    {
-      "id": "log_msokywwg_4v25ih",
-      "at": "2026-08-11T11:32:05.008Z",
+      "id": "log_msokzgog_tv3cmd",
+      "at": "2026-08-11T11:32:30.640Z",
       "actorId": "owner",
       "actorName": "Главный администратор",
       "action": "Удалён пользователь",
