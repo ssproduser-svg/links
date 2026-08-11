@@ -16,5 +16,25 @@
       "expiresAt": "2027-12-31T23:59:59Z"
     }
   ],
-  "purchaseUrl": ""
+  "purchaseUrl": "",
+  "admins": [
+    {
+      "id": "assistant_msokbjtx_3wlnkr",
+      "name": "привет",
+      "role": "assistant",
+      "accessKeySha256": "8e45c173c2f4f7a2ba485305439004dc6fd0532d8e95bcc121824507e0bf6e39",
+      "createdAt": "2026-08-11T11:13:54.987Z",
+      "active": true
+    }
+  ],
+  "auditLog": [
+    {
+      "id": "log_msokbju4_8vf41u",
+      "at": "2026-08-11T11:13:54.988Z",
+      "actorId": "owner",
+      "actorName": "Главный администратор",
+      "action": "Добавлен помощник",
+      "target": "привет"
+    }
+  ]
 }
