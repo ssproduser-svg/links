@@ -5,11 +5,6 @@
     {
       "name": "selion",
       "sha256": "b4def00df98966b5e3dc7fe29ca396cfb302d5493bb62f8116b824693f627638"
-    },
-    {
-      "name": "demo-user",
-      "sha256": "27696f5b0f787e9a28d7fad571295fd44010ebebe9a2e0c34b00b42fa8779f7e",
-      "expiresAt": "2027-12-31T23:59:59Z"
     }
   ],
   "purchaseUrl": "",
@@ -32,6 +27,14 @@
     }
   ],
   "auditLog": [
+    {
+      "id": "log_msokyzjp_nj059d",
+      "at": "2026-08-11T11:32:08.437Z",
+      "actorId": "owner",
+      "actorName": "Главный администратор",
+      "action": "Удалён пользователь",
+      "target": "demo-user"
+    },
     {
       "id": "log_msokyy0t_3biwpn",
       "at": "2026-08-11T11:32:06.461Z",
