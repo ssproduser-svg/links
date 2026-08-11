@@ -1,7 +1,28 @@
 {
   "purchaseAccount": "@perfts",
   "purchaseMessage": "Здравствуйте! Меня интересует ключ доступа к ScamLINK на неделю. Подскажите, пожалуйста, стоимость.",
-  "keys": [],
+  "keys": [
+    {
+      "name": "привет",
+      "sha256": "73dcdf6b51e306ff7115158ec5390fb0ab3549546e8cfb88ae45a5f52a6f41d2",
+      "createdAt": "2026-08-11T11:22:55.809Z",
+      "createdBy": "assistant_msokmlgc_78oy1a",
+      "createdByName": "Марина"
+    },
+    {
+      "name": "selion",
+      "sha256": "b4def00df98966b5e3dc7fe29ca396cfb302d5493bb62f8116b824693f627638"
+    },
+    {
+      "name": "vsevolodss",
+      "sha256": "b481e5cb8f49b2c461b09acfc2ebe71a6472f201e479e1f10e721422b3a9f64b"
+    },
+    {
+      "name": "demo-user",
+      "sha256": "27696f5b0f787e9a28d7fad571295fd44010ebebe9a2e0c34b00b42fa8779f7e",
+      "expiresAt": "2027-12-31T23:59:59Z"
+    }
+  ],
   "purchaseUrl": "",
   "admins": [
     {
@@ -10,7 +31,7 @@
       "role": "assistant",
       "accessKeySha256": "ae51ecbea1fd6b3785fa86695238918efc0e705c8bf4f5ac001eafcbba907511",
       "createdAt": "2026-08-11T11:22:30.301Z",
-      "active": true
+      "active": false
     },
     {
       "id": "assistant_msokbjtx_3wlnkr",
@@ -18,41 +39,25 @@
       "role": "assistant",
       "accessKeySha256": "8e45c173c2f4f7a2ba485305439004dc6fd0532d8e95bcc121824507e0bf6e39",
       "createdAt": "2026-08-11T11:13:54.987Z",
-      "active": true
+      "active": false
     }
   ],
   "auditLog": [
     {
-      "id": "log_msol00vp_3i0q1k",
-      "at": "2026-08-11T11:32:56.821Z",
+      "id": "log_msol0u3f_re3zv5",
+      "at": "2026-08-11T11:33:34.683Z",
       "actorId": "owner",
       "actorName": "Главный администратор",
-      "action": "Удалён пользователь",
-      "target": "demo-user"
-    },
-    {
-      "id": "log_msokzzuo_y1ydhj",
-      "at": "2026-08-11T11:32:55.488Z",
-      "actorId": "owner",
-      "actorName": "Главный администратор",
-      "action": "Удалён пользователь",
-      "target": "vsevolodss"
-    },
-    {
-      "id": "log_msokzykz_tgsd5c",
-      "at": "2026-08-11T11:32:53.843Z",
-      "actorId": "owner",
-      "actorName": "Главный администратор",
-      "action": "Удалён пользователь",
-      "target": "selion"
-    },
-    {
-      "id": "log_msokzx3q_yrzfrx",
-      "at": "2026-08-11T11:32:51.926Z",
-      "actorId": "owner",
-      "actorName": "Главный администратор",
-      "action": "Удалён пользователь",
+      "action": "Отключён помощник",
       "target": "привет"
+    },
+    {
+      "id": "log_msol0tdd_qygkhg",
+      "at": "2026-08-11T11:33:33.745Z",
+      "actorId": "owner",
+      "actorName": "Главный администратор",
+      "action": "Отключён помощник",
+      "target": "Марина"
     },
     {
       "id": "log_msokn54x_a0x5ns",
