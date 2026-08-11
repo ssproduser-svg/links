@@ -3,10 +3,6 @@
   "purchaseMessage": "Здравствуйте! Меня интересует ключ доступа к ScamLINK на неделю. Подскажите, пожалуйста, стоимость.",
   "keys": [
     {
-      "name": "selion",
-      "sha256": "b4def00df98966b5e3dc7fe29ca396cfb302d5493bb62f8116b824693f627638"
-    },
-    {
       "name": "vsevolodss",
       "sha256": "b481e5cb8f49b2c461b09acfc2ebe71a6472f201e479e1f10e721422b3a9f64b"
     },
@@ -36,6 +32,14 @@
     }
   ],
   "auditLog": [
+    {
+      "id": "log_msokzykz_tgsd5c",
+      "at": "2026-08-11T11:32:53.843Z",
+      "actorId": "owner",
+      "actorName": "Главный администратор",
+      "action": "Удалён пользователь",
+      "target": "selion"
+    },
     {
       "id": "log_msokzx3q_yrzfrx",
       "at": "2026-08-11T11:32:51.926Z",
