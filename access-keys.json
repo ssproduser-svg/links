@@ -19,6 +19,14 @@
   "purchaseUrl": "",
   "admins": [
     {
+      "id": "assistant_msokkl43_c7stxw",
+      "name": "Мария",
+      "role": "assistant",
+      "accessKeySha256": "ed4df1a359187b5847fb4d5af27e3b3a3d047694aa6b6251ebfa15bcb5bd1440",
+      "createdAt": "2026-08-11T11:20:56.548Z",
+      "active": true
+    },
+    {
       "id": "assistant_msokbjtx_3wlnkr",
       "name": "привет",
       "role": "assistant",
@@ -28,6 +36,14 @@
     }
   ],
   "auditLog": [
+    {
+      "id": "log_msokkl44_awymi0",
+      "at": "2026-08-11T11:20:56.548Z",
+      "actorId": "owner",
+      "actorName": "Главный администратор",
+      "action": "Добавлен помощник",
+      "target": "Мария"
+    },
     {
       "id": "log_msokki4q_u0q8hz",
       "at": "2026-08-11T11:20:52.682Z",
