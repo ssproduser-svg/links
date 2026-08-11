@@ -4,6 +4,14 @@
   "keys": [
     {
       "name": "vsevolodss",
+      "sha256": "0675d20bacbf492a2f383c6d68c8163e6e196ca0e7a62f7c0c629f75c377220a",
+      "createdAt": "2026-08-11T11:38:47.476Z",
+      "createdBy": "owner",
+      "createdByName": "Главный администратор",
+      "expiresAt": "2026-08-18T11:38:47.476Z"
+    },
+    {
+      "name": "vsevolodss",
       "sha256": "b481e5cb8f49b2c461b09acfc2ebe71a6472f201e479e1f10e721422b3a9f64b",
       "expiresAt": "2026-08-18T11:37:30.310Z"
     },
@@ -33,6 +41,14 @@
     }
   ],
   "auditLog": [
+    {
+      "id": "log_msol7jg4_5k10j5",
+      "at": "2026-08-11T11:38:47.476Z",
+      "actorId": "owner",
+      "actorName": "Главный администратор",
+      "action": "Создан пользователь",
+      "target": "vsevolodss"
+    },
     {
       "id": "log_msol5vwp_fv72m2",
       "at": "2026-08-11T11:37:30.313Z",
